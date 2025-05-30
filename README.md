@@ -37,5 +37,7 @@ ENDWHILE
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Kanishk-Kulshrestha/mylang.git
-cd mylang
+git clone https://github.com/Kanishk-Kulshrestha/JAPL.git
+cd JAPL
+builder.bat [JAPL file name] [Output file name](optional)
+```
